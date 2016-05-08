@@ -25,7 +25,7 @@ ITMO University Team Book for ACM ICPC 2016
 строчки
  - \- suffix array + lcp
  - \- suffix tree
- - \? suffix automata
+ - ? suffix automata
  - \+ дерево палиндромов
  - \- z-функция, pi-функция
  - \- ахо-корасик
